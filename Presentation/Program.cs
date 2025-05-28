@@ -33,4 +33,3 @@ app.MapControllers();
 
 app.Run();
 
-//Vad är swagger?
